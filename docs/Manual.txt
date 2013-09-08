@@ -1,0 +1,9 @@
+0) U U : activate
+V VV VVV VVVV
+1) D D D : message number
+2) U : send to user number (timer)
+
+
+bugs:
+- breaks at UDU
+- long clicking on empty cells works

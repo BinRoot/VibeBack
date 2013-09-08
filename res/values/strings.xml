@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VibeBack</string>
+    <string name="vibe_intro">Pick a friend to Vibe back</string>
+    <string name="other_friends">Or one of your other friends...</string>
+</resources>
